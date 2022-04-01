@@ -1,3 +1,4 @@
 new file, new text
 ++ text
 ++++ new text
+new stranger+
